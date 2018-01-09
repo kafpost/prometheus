@@ -82,5 +82,10 @@
    [警告规则](alerting/alert_rules.md)
 
    [客户端](alerting/clients.md)
+   
+  - 最佳实践
+   
+   [什么时候使用Pushgateway](BEST PRACTICES/When to use the Pushgateway.md)
+  
 
 新手翻译，希望大家多多帮忙，谢谢
